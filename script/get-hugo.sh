@@ -5,7 +5,7 @@ echo "执行目录 `pwd`"
 
 
 # 判断环境是mac还是linux,决定hugo版本
-if [ $(uname -s) == 'Darwin' ];then
+if [ $(uname -s) = 'Darwin' ];then
     echo '当前环境为Darwin'
     HUGOURL='https://github.com/gohugoio/hugo/releases/download/v0.77.0/hugo_extended_0.77.0_macOS-64bit.tar.gz'
 else
