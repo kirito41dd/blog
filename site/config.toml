@@ -353,41 +353,14 @@ theme = "LoveIt"
     #  评论系统设置
     [params.page.comment]
       enable = true
-      # Disqus 评论系统设置
-      [params.page.comment.disqus]
-        # 
-        enable = false
-        # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
-        shortname = ""
       # Gitalk 评论系统设置
       [params.page.comment.gitalk]
         # 
         enable = true
-        owner = ""
-        repo = ""
-        clientId = ""
-        clientSecret = ""
-      # Valine 评论系统设置
-      [params.page.comment.valine]
-        enable = false
-        appId = ""
-        appKey = ""
-        placeholder = ""
-        avatar = "mp"
-        meta= ""
-        pageSize = 10
-        lang = ""
-        visitor = true
-        recordIP = true
-        highlight = true
-        enableQQ = false
-        serverURLs = ""
-        #  emoji 数据文件名称, 默认是 "google.yml"
-        # ("apple.yml", "google.yml", "facebook.yml", "twitter.yml")
-        # 位于 "themes/LoveIt/assets/data/emoji/" 目录
-        # 可以在你的项目下相同路径存放你自己的数据文件:
-        # "assets/data/emoji/"
-        emoji = ""
+        owner = "zshorz"
+        repo = "blog-comment"
+        clientId = "04807af2cae459e49713"
+        clientSecret = "" # 会在ci中自动填充
       
     #  第三方库配置
     [params.page.library]
@@ -544,7 +517,6 @@ theme = "LoveIt"
 
 # 用于 Hugo 输出文档的设置
 [outputs]
-  # 
   home = ["HTML", "RSS", "JSON"]
   page = ["HTML", "MarkDown"]
   section = ["HTML", "RSS"]
