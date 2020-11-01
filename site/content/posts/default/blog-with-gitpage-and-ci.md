@@ -3,6 +3,8 @@ title: "使用gh-page和CI创建博客"
 date: 2020-11-01T14:43:41+08:00
 categories: ["default"]
 tags: ["blog"]
+featuredImage: ""
+featuredImagePreview: ""
 draft: false
 ---
 

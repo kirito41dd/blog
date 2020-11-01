@@ -372,7 +372,7 @@ theme = "LoveIt"
 
   # 网站验证代码，用于 Google/Bing/Yandex/Pinterest/Baidu
   [params.verification]
-    google = ""
+    google = "onNQAYOD-rBUY_86k82xffi335LBlZgn4GLzAxL3dRE"
     bing = ""
     yandex = ""
     pinterest = ""
