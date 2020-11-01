@@ -29,9 +29,9 @@ jobs:
           git submodule update
           sh script/get-hugo.sh
           cd site
-          sed -i '' 's/clientSecret/clientSecret = "${{secrets.CLIENT_SECRET}}" #/g' config.toml
+          sed 's/clientSecret/clientSecret = "${{secrets.CLIENT_SECRET}}" #/g' config.toml > config.toml.swa
+          cat config.toml.swa > config.toml
           ../bin/hugo
-          cd themes/LoveIt && ls
       
       # 部署blog
       - name: deploy blog
