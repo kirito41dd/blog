@@ -1,0 +1,4 @@
+[submodule "site/themes/LoveIt"]
+	path = site/themes/LoveIt
+	url = https://github.com/zshorz/LoveIt.git
+	branch = feature_shorz_blog
