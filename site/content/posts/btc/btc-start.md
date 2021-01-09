@@ -26,10 +26,10 @@ draft: false
 
 因此 `私钥` **最重要！**
 
-他们长啥样：`base58编码`
+他们长啥样：
 
 * `私钥` -  `KwYC54hbaH6X5CrCfDK19oyJd2d1ivnSakbJxrW4ENbi2E2bJkbN`
-* `公钥` -  `2f6e7sUQhP6z6mTMhhSP8NYyfGPctGfZrzxgNa3t1VpKiYn6vqmujfq94EMP3xvD3rNxTWkbKiKBiQmq1BM4B9tPjKQMai8Me2Zrh7TAEmH5uZf1N7SHeB8DbjHvuB671pdFBcQmC8ZTqckTxe2jwW1pEx6YFAKT3ovskHP16ME6Y18QSM`
+* `公钥` -  `2f6e7sUQhP6z6mTMhh...(略)...16ME6Y18QSM`
 * `地址` -  `16PXzomhwDovGRHaN6WGZXxk5BB1e78dn7`
 
 公钥很长不方便记忆，所以都用地址
@@ -79,6 +79,8 @@ draft: false
 你可能担心钱包安全性，但他们大多是安全的，前提是知名钱包，官网上推荐的钱包一般都安全
 
 [https://bitcoin.org](https://bitcoin.org)
+
+(也可以看我写的另一篇钱包推荐
 
 ## 如何生成地址
 
@@ -134,4 +136,6 @@ draft: false
 
 ## 其他
 
-如果你有条件使用 telegram，欢迎加入交流群 [@talk_btc](https://t.me/talk_btc)
+如果你有条件使用 Telegram，欢迎加入交流群 [@talk_btc](https://t.me/talk_btc)
+
+[![](https://blog-1256556944.cos.ap-nanjing.myqcloud.com/public/t_logo.svg)](https://t.me/talk_btc)
