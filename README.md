@@ -1,6 +1,11 @@
 # hugo-env
 a blog env
 
+```sh
+git submodule init
+git submodule update
+```
+
 ## hugo常用命令
 ```sh
 # 在当前目录创建站点
