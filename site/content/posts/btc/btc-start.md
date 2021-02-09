@@ -124,7 +124,7 @@ draft: false
 
 交易所不会吧私钥给你，也就是说你只能通过交易所把比特币提出来，如果交易所跑路了，你币没了(概率极低)
 
-知名交易所都很安全：我一般用火币 ，(火币打钱`19hXMLdZGSaMDpmf6Cw1uWLdjXzFAzCKdx`)
+知名交易所都很安全：我一般用火币 ，(火币打钱`1KiritobkMPpaWBjTDHSoiP5icv8PEFNdR`)
 
 
 
