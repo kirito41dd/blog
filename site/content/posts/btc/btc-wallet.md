@@ -72,7 +72,8 @@ Electrum是一个轻节点钱包，你不用同步节点数据，而是由别人
 
 Imtoken是一个主打移动端的轻节点钱包，并且支持多币种，能满足日常使用。
 
-[![](https://blog-1256556944.cos.ap-nanjing.myqcloud.com/public/imtoken-ui.jpg)]()
+<img src="https://blog-1256556944.cos.ap-nanjing.myqcloud.com/public/imtoken-ui.jpg" width = "200" height = "400" />
+
 
 优点：
 * HD钱包，支持导出bip39助记词
@@ -89,11 +90,10 @@ Imtoken是一个主打移动端的轻节点钱包，并且支持多币种，能�
 
 桌面端基本用core钱包或Electrum就够了。
 
-移动端我也用过Bither，但觉得功能不够。其他交易所推出的钱包我也不推荐，夹私货太多。
+移动端我也用Bither，觉得很不错，比imtoken功能少点，但完全开源更可信。
 
-如果你有条件使用 Telegram，欢迎加入交流群 [@talk_btc](https://t.me/talk_btc)
+其他交易所推出的钱包我就不推荐了，夹私货太多。
 
-[![](https://blog-1256556944.cos.ap-nanjing.myqcloud.com/public/t_logo.svg)](https://t.me/talk_btc)
 
 ## 推荐阅读
 

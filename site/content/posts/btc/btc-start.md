@@ -133,11 +133,3 @@ draft: false
 * 火币 -
   * 邀请链接 - [www.huobi.me/topic/invited/?invite_code=6a995](https://www.huobi.me/topic/invited/?invite_code=6a995)
   * 邀请码 - `6a995`
-
-
-
-## 其他
-
-如果你有条件使用 Telegram，欢迎加入交流群 [@talk_btc](https://t.me/talk_btc)
-
-[![](https://blog-1256556944.cos.ap-nanjing.myqcloud.com/public/t_logo.svg)](https://t.me/talk_btc)
