@@ -119,6 +119,6 @@ $$
 
 <div>
 $$
-\because n = pq\ (质因子)\\\therefore 必然有\ m = kp\ 或\ m=kq\ (公因子只能是p或q)\\以\ m=kp\ 为例，kp必然互质,p为质数\\根据欧拉定理\ (kp)^{q-1} \equiv 1 \pmod q \ (自己乘上自己，再两边同时乘kp)\\进一步得到\ [(kp)^{q-1}]^{h(p-1)} \times kp \equiv kp \pmod q\\\therefore ed = h\phi(n) +1 \\化简\ (kp)^{ed} \equiv kp \pmod q\\改写成\ (kp)^{ed} = kp + tq\\这时t必然能被p整除,即\ t=t'p\ (因为(kp)^{ed}一定是p的整倍数)\\(kp)^{ed} = kp+t'pq\\\because m=kp, n=pq\\\therefore m^{ed}=m+t'n\\\therefore m^{ed} \equiv m \pmod n\\证明完成
+\because n = pq\ (质因子)\\\therefore 必然有\ m = kp\ 或\ m=kq\ (公因子只能是p或q)\\以\ m=kp\ 为例，kp与q必然互质,p为质数\\根据欧拉定理\ (kp)^{q-1} \equiv 1 \pmod q \ (自己多次乘上自己，再两边同时乘kp)\\进一步得到\ [(kp)^{q-1}]^{h(p-1)} \times kp \equiv kp \pmod q\\\therefore ed = h\phi(n) +1 \\化简\ (kp)^{ed} \equiv kp \pmod q\\改写成\ (kp)^{ed} = kp + tq\\这时t必然能被p整除,即\ t=t'p\ (因为(kp)^{ed}一定是p的整倍数)\\(kp)^{ed} = kp+t'pq\\\because m=kp, n=pq\\\therefore m^{ed}=m+t'n\\\therefore m^{ed} \equiv m \pmod n\\证明完成
 $$
 </div>
