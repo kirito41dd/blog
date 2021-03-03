@@ -333,7 +333,7 @@ theme = "LoveIt"
       [params.page.comment.gitalk]
         # 
         enable = true
-        owner = "zshorz"
+        owner = "kirito41dd"
         repo = "blog-comment"
         clientId = "04807af2cae459e49713"
         clientSecret = "" # 会在ci中自动填充
