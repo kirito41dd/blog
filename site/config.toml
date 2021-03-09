@@ -329,10 +329,15 @@ theme = "LoveIt"
     #  评论系统设置
     [params.page.comment]
       enable = true
+      # Disqus 评论系统设置
+      [params.page.comment.disqus]
+        enable = true
+        # Disqus 的 shortname
+        shortname = "kirito-blog"
       # Gitalk 评论系统设置
       [params.page.comment.gitalk]
         # 
-        enable = true
+        enable = false
         owner = "kirito41dd"
         repo = "blog-comment"
         clientId = "04807af2cae459e49713"
