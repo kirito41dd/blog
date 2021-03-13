@@ -175,7 +175,7 @@ theme = "LoveIt"
       # Gravatar 邮箱，用于优先在主页显示的头像
       gravatarEmail = ""
       # 主页显示头像的 URL
-      avatarURL = "https://blog-1256556944.cos.ap-nanjing.myqcloud.com/avatar.jpeg"
+      avatarURL = "https://blog-1256556944.cos.ap-nanjing.myqcloud.com/kirito.jpg"
       #  主页显示的网站标题 (支持 HTML 格式)
       title = ""
       # 主页显示的网站副标题
@@ -362,7 +362,7 @@ theme = "LoveIt"
       # 出版者信息
       [params.page.seo.publisher]
         name = "kirito"
-        logoUrl = "https://blog-1256556944.cos.ap-nanjing.myqcloud.com/avatar.jpeg"
+        logoUrl = "https://blog-1256556944.cos.ap-nanjing.myqcloud.com/kirito.jpg"
 
   #  TypeIt 配置
   [params.typeit]
@@ -386,9 +386,9 @@ theme = "LoveIt"
   #  网站 SEO 配置
   [params.seo]
     # 图片 URL
-    image = "https://blog-1256556944.cos.ap-nanjing.myqcloud.com/avatar.jpeg"
+    image = "https://blog-1256556944.cos.ap-nanjing.myqcloud.com/kirito.jpg"
     # 缩略图 URL
-    thumbnailUrl = "https://blog-1256556944.cos.ap-nanjing.myqcloud.com/avatar.jpeg"
+    thumbnailUrl = "https://blog-1256556944.cos.ap-nanjing.myqcloud.com/kirito.jpg"
 
   #  网站分析配置
   [params.analytics]
