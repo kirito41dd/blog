@@ -1,4 +1,4 @@
-baseURL = "http://www.shorz.cn/"
+baseURL = "http://www.kirito41dd.cn/"
 # [en, zh-cn, fr, ...] 设置默认的语言
 defaultContentLanguage = "zh-cn"
 # 网站语言, 仅在这里 CN 大写
@@ -6,7 +6,7 @@ languageCode = "zh-CN"
 # 是否包括中日韩文字
 hasCJKLanguage = true
 # 网站标题
-title = "kirito"
+title = "kirito's blog"
 
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "LoveIt"
@@ -60,7 +60,7 @@ theme = "LoveIt"
   # 网站描述
   description = "kirito's blog"
   # 网站关键词
-  keywords = ["kirito", "blog"]
+  keywords = ["编程", "比特币", "技术"]
   # 网站默认主题样式 ("light", "dark", "auto")
   defaultTheme = "auto"
   # 公共 git 仓库路径，仅在 enableGitInfo 设为 true 时有效
@@ -133,7 +133,7 @@ theme = "LoveIt"
   [params.footer]
     enable = true
     #  自定义内容 (支持 HTML 格式)
-    custom = ''
+    custom = '<small>1KiritobkMPpaWBjTDHSoiP5icv8PEFNdR</small>'
     #  是否显示 Hugo 和主题信息
     hugo = true
     #  是否显示版权信息
@@ -197,7 +197,7 @@ theme = "LoveIt"
 
   # 作者的社交信息设置
   [params.social]
-    GitHub = "zshorz"
+    # GitHub = ""
     # Linkedin = ""
     # Twitter = "xxxx"
     # Instagram = "xxxx"
